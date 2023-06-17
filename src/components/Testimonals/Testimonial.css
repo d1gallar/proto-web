@@ -1,0 +1,26 @@
+.testimonial-grid {
+  display: grid;
+  grid-template-rows: auto;
+  grid-template-areas:
+    "b b"
+    "a c";
+}
+
+.testimonial-grid-item1 {
+  grid-area: a;
+}
+
+.testimonial-grid-item2 {
+  grid-area: b;
+}
+
+.testimonial-grid-item3 {
+  grid-area: c;
+}
+
+@media screen and (min-width: 768px) {
+  .testimonial-grid {
+    display: grid;
+    grid-template-areas: "a b c";
+  }
+}
