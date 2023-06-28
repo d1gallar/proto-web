@@ -1,5 +1,6 @@
 # Proto Website
-![showcase-proto](https://github.com/d1gallar/proto-web/assets/49170814/ff1306ae-cf83-44f4-bb2d-724c4426b837)
+
+![showcase-proto](https://github.com/d1gallar/proto-web/assets/49170814/2718b2b4-dcf7-40f8-8591-e1820f794e9e)
 
 ## 📄 Description
 Welcome to my front end project! This website presents a dynamic and visually appealing platform that combines the power of JavaScript, Next.js, TypeScript, and Tailwind CSS to deliver an exceptional user experience.
